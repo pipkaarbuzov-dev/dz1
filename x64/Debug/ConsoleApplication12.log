@@ -1,17 +1,27 @@
-﻿  ConsoleApplication12.cpp
-  string_as_array.cpp
-  string_as_c_string.cpp
-C:\Users\lomik\source\repos\ConsoleApplication12\ConsoleApplication12\string_as_array.cpp(30,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\lomik\source\repos\ConsoleApplication12\ConsoleApplication12\string_as_array.cpp(108,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
-C:\Users\lomik\source\repos\ConsoleApplication12\ConsoleApplication12\string_as_array.cpp(109,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
-C:\Users\lomik\source\repos\ConsoleApplication12\ConsoleApplication12\string_as_c_string.cpp(33,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\lomik\source\repos\ConsoleApplication12\ConsoleApplication12\string_as_c_string.cpp(106,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
-C:\Users\lomik\source\repos\ConsoleApplication12\ConsoleApplication12\string_as_c_string.cpp(107,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+﻿  bubble_sort.cpp
+  exchange_sort.cpp
+  insertion_sort.cpp
+  optimized_bubble_sort.cpp
+C:\Users\lomik\source\repos\ConsoleApplication12\ConsoleApplication12\sem_1\sorting\src\bubble_sort.cpp(1,10): error C1083: Не удается открыть файл включение: bubble_sort.h: No such file or directory,
+C:\Users\lomik\source\repos\ConsoleApplication12\ConsoleApplication12\sem_1\sorting\src\exchange_sort.cpp(1,10): error C1083: Не удается открыть файл включение: exchange_sort.h: No such file or directory,
+C:\Users\lomik\source\repos\ConsoleApplication12\ConsoleApplication12\sem_1\sorting\src\insertion_sort.cpp(1,10): error C1083: Не удается открыть файл включение: insertion_sort.h: No such file or directory,
+C:\Users\lomik\source\repos\ConsoleApplication12\ConsoleApplication12\sem_1\sorting\src\optimized_bubble_sort.cpp(1,10): error C1083: Не удается открыть файл включение: optimized_bubble_sort.h: No such file or directory,
+  selection_sort.cpp
+C:\Users\lomik\source\repos\ConsoleApplication12\ConsoleApplication12\sem_1\sorting\src\selection_sort.cpp(1,10): error C1083: Не удается открыть файл включение: selection_sort.h: No such file or directory,
+  test_bubble_sort.cpp
+C:\Users\lomik\source\repos\ConsoleApplication12\ConsoleApplication12\sem_1\tests\test_bubble_sort.cpp(1,10): error C1083: Не удается открыть файл включение: catch.hpp: No such file or directory,
+  test_exchange_sort.cpp
+C:\Users\lomik\source\repos\ConsoleApplication12\ConsoleApplication12\sem_1\tests\test_exchange_sort.cpp(1,10): error C1083: Не удается открыть файл включение: catch.hpp: No such file or directory,
+  test_insertion_sort.cpp
+C:\Users\lomik\source\repos\ConsoleApplication12\ConsoleApplication12\sem_1\tests\test_insertion_sort.cpp(2,10): error C1083: Не удается открыть файл включение: catch.hpp: No such file or directory,
+  test_optimized_bubble_sort.cpp
+C:\Users\lomik\source\repos\ConsoleApplication12\ConsoleApplication12\sem_1\tests\test_optimized_bubble_sort.cpp(1,10): error C1083: Не удается открыть файл включение: catch.hpp: No such file or directory,
+  test_selection_sort.cpp
+C:\Users\lomik\source\repos\ConsoleApplication12\ConsoleApplication12\sem_1\tests\test_selection_sort.cpp(1,10): error C1083: Не удается открыть файл включение: catch.hpp: No such file or directory,
   string_from_file.cpp
 C:\Users\lomik\source\repos\ConsoleApplication12\ConsoleApplication12\string_from_file.cpp(32,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
 C:\Users\lomik\source\repos\ConsoleApplication12\ConsoleApplication12\string_from_file.cpp(104,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
 C:\Users\lomik\source\repos\ConsoleApplication12\ConsoleApplication12\string_from_file.cpp(105,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
 C:\Users\lomik\source\repos\ConsoleApplication12\ConsoleApplication12\string_from_file.cpp(128,16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\lomik\source\repos\ConsoleApplication12\ConsoleApplication12\string_from_file.cpp(147,17): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  tests.cpp
   Создание кода...
