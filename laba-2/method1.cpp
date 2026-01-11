@@ -92,4 +92,4 @@ void method1() {
     cout << "Результат: " << str << endl;
     free(str);
 }
-5. method2.h
+
